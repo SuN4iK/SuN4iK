@@ -4,6 +4,8 @@
 -  I'm a pupil, 14 y.o, but I'm trying to learn what they don't teach in school.
 -  I'm glad you visited my GitHub page, here you can watch my progress and check out my projects))
 -  Have Fun!
+-  Current projects:
+-  TexasPoker
 
 <!---
 SuN4iK/SuN4iK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
